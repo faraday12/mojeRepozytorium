@@ -1,0 +1,10 @@
+public class WZPI {
+
+public static void main(String [] args)
+{
+System.out.println("Oto moj przykladowy program napisany w javie na laboratorium z WZPI");
+}
+
+
+
+}
